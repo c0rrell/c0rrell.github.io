@@ -1,3 +1,5 @@
+title: c0rrell.github.io
+description: A personal website for c0rrell
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
   - jekyll-remote-theme
