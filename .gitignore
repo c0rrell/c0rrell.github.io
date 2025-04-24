@@ -1,0 +1,16 @@
+# Ignore Ruby/Jekyll build files
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Ignore Bundler files
+.bundle/
+vendor/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore log files or temp files
+*.log
+*.tmp
