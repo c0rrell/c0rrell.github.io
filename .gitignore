@@ -14,3 +14,4 @@ vendor/
 # Ignore log files or temp files
 *.log
 *.tmp
+thm-notes.md
